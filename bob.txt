@@ -1,1 +1,4 @@
 Hi, This is Vineeth
+Now, whenever you     try to commit changes, this    script will run and check for trailing whitespaces in Python files. If it finds any, the commit will be aborted.
+
+This is a very basic example, and you can modify and      extend the       script to include other checks or tasks as needed for your project.
