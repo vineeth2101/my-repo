@@ -1,5 +1,6 @@
-def add_numbers(a,b):
-    result = a+b
+def add_numbers(a, b):
+    result = a + b
     return result
-print(add_numbers(5,10))
 
+
+print(add_numbers(5, 10))
