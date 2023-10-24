@@ -1,14 +1,15 @@
 # Hook: trailing-whitespace
 def example_function():
-    print("This function has trailing whitespace.   ")
+    print("This function has trailing whitespace.        ")
 
 
 # Hook: end-of-file-fixer
+
 print("This file does not end with a newline.")
 
 # Hook: check-yaml
 yaml_data = """
-example:
+   example:
   - item1
   - item2
   - item3:
